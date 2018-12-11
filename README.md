@@ -7,6 +7,7 @@ never used jupyter notebooks or python? - start here https://github.com/matplotl
 
 Install anaconda python for your platform (if you haven't already) https://www.anaconda.com/download/
 
+from anaconda prompt (shell with all the paths set up)
 ```
 conda create --name modelHPC python=3.6 matplotlib jupyter matplotlib
 
