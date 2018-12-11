@@ -17,6 +17,8 @@ pip install git+https://github.com/AIworx-Labs/chocolate@master
 
 pip install xgboost
 
+conda install sympy
+
 cd ..to desired parent directory for project
 
 git clone https://github.com/strelzoff-erdc/model_selection_on_HPC_intro.git
