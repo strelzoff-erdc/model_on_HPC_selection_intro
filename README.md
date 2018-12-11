@@ -12,4 +12,10 @@ pip install git+https://github.com/AIworx-Labs/chocolate@master
 
 pip install xgboost
 
+cd ..to desired parent directory for project
 
+git clone https://github.com/strelzoff-erdc/model_selection_on_HPC_intro.git
+
+cd model_selection_on_HPC_intro
+
+jupyter notebook
