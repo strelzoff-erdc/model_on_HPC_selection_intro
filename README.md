@@ -4,7 +4,11 @@
 never used jupyter notebooks or python? - start here https://github.com/matplotlib/AnatomyOfMatplotlib
 
 ## setup
-```conda create --name modelHPC python=3.6 matplotlib jupyter matplotlib
+
+Install anaconda python for your platform (if you haven't already) https://www.anaconda.com/download/
+
+```
+conda create --name modelHPC python=3.6 matplotlib jupyter matplotlib
 
 activate modelHPC
 
