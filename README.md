@@ -19,6 +19,8 @@ pip install xgboost
 
 conda install sympy
 
+pip install joblib
+
 cd ..to desired parent directory for project
 
 git clone https://github.com/strelzoff-erdc/model_selection_on_HPC_intro.git
